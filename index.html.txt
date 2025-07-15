@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sandstone and Juniper</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Banner Section -->
+    <header>
+        <img src="banner.jpg" alt="Banner Photo" class="banner">
+        <nav>
+            <ul>
+                <li><a href="#about-me">About Me</a></li>
+                <li><a href="#geology-just-for-fun">Geology Just for Fun</a></li>
+                <li><a href="#creative-writing">Creative Writing</a></li>
+                <li><a href="#step-dads-garden">Step Dad's Garden</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <!-- Main Content Section -->
+    <main>
+        <!-- About Me Section -->
+        <section id="about-me">
+            <h1>About Me</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+        </section>
+
+        <!-- Geology Just for Fun Section -->
+        <section id="geology-just-for-fun">
+            <h1>Geology Just for Fun</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+        </section>
+
+        <!-- Creative Writing Section -->
+        <section id="creative-writing">
+            <h1>Creative Writing</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+        </section>
+
+        <!-- Step Dad's Garden Section -->
+        <section id="step-dads-garden">
+            <h1>Step Dad's Garden</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet nulla auctor, vestibulum magna sed, convallis ex.</p>
+        </section>
+    </main>
+
+    <script src="script.js"></script>
+</body>
+</html>
